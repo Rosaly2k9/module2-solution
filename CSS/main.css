@@ -60,9 +60,7 @@ p {
     #cont1, #cont2 {
         width: 47%;
     }
-    #cont2{
-        float: left;
-    }
+
     #cont3 {
         width: 96%;
     }
